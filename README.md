@@ -13,4 +13,4 @@
 <div align="center">
 <br />
 
-[![Сделано с любовью (mqchinee)](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-dec0dOS-ff1414.svg?style=flat-square)](https://github.com/mqchinee)
+[![Сделано с любовью (mqchinee)](https://img.shields.io/badge/сделано%20с%20любовью%20mqchinee-ff1414.svg?style=flat-square)](https://github.com/mqchinee)
